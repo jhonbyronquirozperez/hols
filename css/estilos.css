@@ -42,3 +42,11 @@ body
 {
     padding: 1em;
 }
+
+#footer{
+    width: 100%;
+    background-color: #333;
+    height: 40px;
+    color: azure;
+    text-align: center;
+}
